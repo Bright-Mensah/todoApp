@@ -5,6 +5,9 @@ This is a crud todoApp developed using PHP. It also contains an api for react na
 # SIGN IN PAGE
 ![sign in](./images/Screenshot%20(1).png)
 
+# SIGN UP PAGE
+![sign up](./images/Screenshot%20(10).png)
+
 # HOME PAGE
 ![home](./images/Screenshot%20(5).png)
 
